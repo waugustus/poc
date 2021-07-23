@@ -1,2 +1,2 @@
 # poc
-fuzz poc
+crash poc
